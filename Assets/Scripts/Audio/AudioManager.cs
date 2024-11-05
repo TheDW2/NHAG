@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class AudioManager : MonoBehaviour
 {
-    /*private FMOD.Studio.EventInstance themeMusic;
+    private FMOD.Studio.EventInstance themeMusic;
     private FMOD.Studio.EventInstance titleMusic;
     [SerializeField] private Slider musicSlider;
     [SerializeField] private Slider SFXSlider;
@@ -104,6 +104,4 @@ public class AudioManager : MonoBehaviour
     {
         Application.Quit();
     }
-
-*/
 }

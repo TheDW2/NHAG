@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class MenuController : MonoBehaviour
 {
-/*    public GameObject mainMenu;
+    public GameObject mainMenu;
     public GameObject controlMenu;
     public GameObject settingsMenu;
     public GameObject credits;
@@ -66,5 +66,5 @@ public class MenuController : MonoBehaviour
         audioManager.ChangeMusicImmediate("Level1");
         // set the scene to the first game level
         SceneManager.LoadScene("Level1");
-    }*/
+    }
 }
