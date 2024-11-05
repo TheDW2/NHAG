@@ -2829,12 +2829,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dc7f3164f022d944bd49f2a31c4b568, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainMenu: {fileID: 0}
-  controlMenu: {fileID: 0}
-  settingsMenu: {fileID: 0}
-  credits: {fileID: 0}
-  names1: {fileID: 0}
-  audioManager: {fileID: 0}
+  mainMenu: {fileID: 1476152707}
+  controlMenu: {fileID: 1485920826}
+  settingsMenu: {fileID: 1581940371}
+  credits: {fileID: 315331408}
+  names1: {fileID: 315331408}
+  audioManager: {fileID: 1311508160}
 --- !u!4 &851676698
 Transform:
   m_ObjectHideFlags: 0
@@ -4694,9 +4694,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7288c36b09b8428458e2b8af553a3621, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  musicSlider: {fileID: 0}
-  SFXSlider: {fileID: 0}
-  settingsMenu: {fileID: 0}
+  musicSlider: {fileID: 1477251379}
+  SFXSlider: {fileID: 1919077277}
+  settingsMenu: {fileID: 1581940371}
 --- !u!1 &1324497267
 GameObject:
   m_ObjectHideFlags: 0
