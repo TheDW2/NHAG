@@ -104,5 +104,4 @@ public class AudioManager : MonoBehaviour
     {
         Application.Quit();
     }
-
 }
